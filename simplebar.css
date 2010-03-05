@@ -1,0 +1,12 @@
+.simplebar {
+	border: 1px solid #333;
+	background-color: white;
+	height: 20px;
+}
+	/* Colors */
+	.simplebar.red { background-color: red;}
+	.simplebar.magenta {background-color: fuchsia }
+	.simplebar.blue {background-color: blue;}
+	.simplebar.cyan {background-color: aqua;}
+	.simplebar.green {background-color: lime;}
+	.simplebar.yellow {background-color: yellow;}
